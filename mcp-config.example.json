@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "donkey-editor": {
+      "command": "node",
+      "args": [
+        "C:/path/to/donkey-editor-mcp/server.mjs",
+        "--origin",
+        "https://pixeledit.pages.dev"
+      ]
+    }
+  }
+}
